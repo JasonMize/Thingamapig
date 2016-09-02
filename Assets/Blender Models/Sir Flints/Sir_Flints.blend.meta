@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 6f3e46f8cff82f149aa3c8f4e7956d46
+timeCreated: 1448477084
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arm_Forearm_L
+    100002: Arm_Forearm_R
+    100004: Arm_Hand_L
+    100006: Arm_Hand_R
+    100008: Arm_Shoulder_L
+    100010: Arm_Shoulder_R
+    100012: Arm_Wrist_L
+    100014: Arm_Wrist_R
+    100016: Armature
+    100018: buttons
+    100020: center
+    100022: Ear_Base_L
+    100024: Ear_Base_R
+    100026: Ear_Mid_L
+    100028: Ear_Mid_R
+    100030: Ear_Tip_L
+    100032: Ear_Tip_R
+    100034: Eye_L
+    100036: eye_L
+    100038: Eye_R
+    100040: eye_R
+    100042: feet
+    100044: hand
+    100046: Head
+    100048: head
+    100050: inside_of_mouth
+    100052: jacket
+    100054: Jaw
+    100056: Leg_Ankle_L
+    100058: Leg_Ankle_R
+    100060: Leg_Foot_L
+    100062: Leg_Foot_R
+    100064: Leg_Shin_L
+    100066: Leg_Shin_R
+    100068: Leg_Thigh_L
+    100070: Leg_Thigh_R
+    100072: Leg_Toe_L
+    100074: Leg_Toe_R
+    100076: Nose
+    100078: pants
+    100080: //RootNode
+    100082: Spine_Lower
+    100084: Spine_Upper
+    100086: Tail
+    100088: tail
+    100090: teeth
+    100092: tongue
+    400000: Arm_Forearm_L
+    400002: Arm_Forearm_R
+    400004: Arm_Hand_L
+    400006: Arm_Hand_R
+    400008: Arm_Shoulder_L
+    400010: Arm_Shoulder_R
+    400012: Arm_Wrist_L
+    400014: Arm_Wrist_R
+    400016: Armature
+    400018: buttons
+    400020: center
+    400022: Ear_Base_L
+    400024: Ear_Base_R
+    400026: Ear_Mid_L
+    400028: Ear_Mid_R
+    400030: Ear_Tip_L
+    400032: Ear_Tip_R
+    400034: Eye_L
+    400036: eye_L
+    400038: Eye_R
+    400040: eye_R
+    400042: feet
+    400044: hand
+    400046: Head
+    400048: head
+    400050: inside_of_mouth
+    400052: jacket
+    400054: Jaw
+    400056: Leg_Ankle_L
+    400058: Leg_Ankle_R
+    400060: Leg_Foot_L
+    400062: Leg_Foot_R
+    400064: Leg_Shin_L
+    400066: Leg_Shin_R
+    400068: Leg_Thigh_L
+    400070: Leg_Thigh_R
+    400072: Leg_Toe_L
+    400074: Leg_Toe_R
+    400076: Nose
+    400078: pants
+    400080: //RootNode
+    400082: Spine_Lower
+    400084: Spine_Upper
+    400086: Tail
+    400088: tail
+    400090: teeth
+    400092: tongue
+    2300000: buttons
+    2300002: center
+    2300004: feet
+    2300006: hand
+    2300008: head
+    2300010: inside_of_mouth
+    2300012: jacket
+    2300014: pants
+    2300016: teeth
+    2300018: tongue
+    3300000: buttons
+    3300002: center
+    3300004: feet
+    3300006: hand
+    3300008: head
+    3300010: inside_of_mouth
+    3300012: jacket
+    3300014: pants
+    3300016: teeth
+    3300018: tongue
+    4300000: eye_R
+    4300002: eye_L
+    4300004: tail
+    4300006: tongue
+    4300008: teeth
+    4300010: inside_of_mouth
+    4300012: head
+    4300014: hand
+    4300016: jacket
+    4300018: pants
+    4300020: feet
+    4300022: center
+    4300024: buttons
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    13700000: eye_L
+    13700002: eye_R
+    13700004: tail
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
